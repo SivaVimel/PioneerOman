@@ -3242,7 +3242,7 @@ h6 {
 
 .button--accent,
 .action--accent {
-	background: linear-gradient(135deg, #00a6ff, #602D4E);
+	background-color: #0b79b4;
 	color: white;
 }
 
